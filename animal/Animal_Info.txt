@@ -1,0 +1,269 @@
+name:Boofus
+age:3yo
+color:Black
+gender:male
+size:Large
+vac:Y
+s/v:Y
+adopted:N
+
+name:coco
+age:2 yo
+color:white
+gender:male
+size:small
+vac:y
+s/v:y
+adopted:N
+
+name:Grizzy
+age:7 yo
+color:Brown and black
+gender:Male
+size:Medium
+vac:y
+s/v:N
+adopted:N
+
+
+name:Liana
+age:5 yo
+color:White and black
+gender:Female
+size:Large
+vac:Y
+s/v:Y
+adopted:N
+
+name:Patch
+age:7 yo
+color:White
+gender:Male
+size:Medium
+vac:Y
+s/v:Y
+adopted:N
+
+name:Will
+age:10 mo
+color:White and Black
+gender:Male
+size:Medium
+vac:Y
+s/v:N
+adopted:N
+
+						Puppies
+
+name:Marty
+age:11 mo
+color:Brown
+gender:Male
+size:Small
+vac:Y
+s/v:Y
+adopted:Y
+
+name:Molly
+age:4 mo
+color:Black
+gender:Female
+size:medium
+vac:Y
+s/v:Y
+adopted:N
+
+name:Raider
+age:1 mo
+color:White and black
+gender:male
+size:small
+vac:y
+s/v:y
+adopted:N
+
+name:Top
+age:6 mo
+color:White and Orange
+gender:male
+size:medium
+vac:Y
+s/v:Y
+adopted:N
+
+name:Ulysses
+age:14 wo
+color:Brown and Black
+gender: Male
+size:Medium
+vac:Y
+s/v:Y
+adopted:N
+
+							Cats
+
+name:Double Whammy
+age:2 yo
+color:White and Orange
+gender:Male
+size:Medium
+vac:Y
+s/v:N
+adopted:N
+
+name:Fiona
+age:7 yo
+color:White and Black
+gender:Fmale
+size:medium
+vac:Y
+s/v:Y
+adopted:N
+
+name:Gulliver
+age:2yo
+color:Gray
+gender:male
+size:medium
+vac:Y
+s/v:Y
+adopted:N
+
+name:Louie
+age:3yo
+color:White and Black
+gender:Male
+size:small
+vac:y
+s/v:n
+adopted:n
+
+name:Sam
+age:4yo
+color:Black
+gender:Male
+size:M
+vac:Y
+s/v:N
+adopted:Y
+
+name:Spooky
+age:2yo
+color:Black
+gender:F
+size:S
+vac:Y
+s/v:Y
+adopted:N
+
+name:Oh Susanna!
+age:2yo
+color:Gray
+gender:F
+size:M
+vac:Y
+s/v:Y
+adopted:N
+
+						Kittens
+
+name:Bubble
+age:7mo
+color:White and Gray
+gender:F
+size:M
+vac:Y
+s/v:Y
+adopted:N
+
+name:Chip
+age:1yo
+color:Striped Gray
+gender:M
+size:S
+vac:Y
+s/v:Y
+adopted:N
+
+name:Hot Potato
+age:5mo
+color:Black and White
+gender:F
+size:M
+vac:Y
+s/v:Y
+adopted:N
+
+name:Mr Roboto
+age:4mo
+color:Gray
+gender:M
+size:M
+vac:Y
+s/v:Y
+adopted:N
+
+name:Seth
+age:3mo
+color:gray
+gender:F
+size:S
+vac:Y
+s/v:Y
+adopted:Y
+
+						farm Animals
+
+name:Bert
+age:3yo
+color:Gray
+gender:M
+size:L
+vac:Y
+s/v:N
+adopted:N
+
+name:Cozmo
+age:14yo
+color:Brown and Blonde
+gender:M
+size:L
+vac:Y
+s/v:N
+adopted:N
+
+name:Ernie
+age:3yo
+color:Gray
+gender:M
+size:L
+vac:Y
+s/v:N
+adopted:N
+
+name:Gambit
+age:4yo
+color:Gray
+gender:M
+size:M
+vac:Y
+s/v:N
+adopted:N
+
+name:Shawn
+age:9yo
+color:Gray
+gender:F
+size:L
+vac:Y
+s/v:N
+adopted:N
+
+name:Snickers
+age:12wo
+color:Brown
+gender:male
+size:small
+vac:Y
+s/v:N
+adopted:N
